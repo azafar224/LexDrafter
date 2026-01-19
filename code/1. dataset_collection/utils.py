@@ -32,3 +32,5 @@ def loadConfigFromEnv():
     return config
 
 # Optimized batch helper utilities
+
+# Execution timer utilities for scrapers
