@@ -29,3 +29,5 @@ def pages_extraction(provided_url):
             + 1
         )
     return last_page_number
+
+# Regex fallback for EUR-Lex pagination tags
