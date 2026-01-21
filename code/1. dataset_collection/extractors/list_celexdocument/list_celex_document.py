@@ -59,3 +59,5 @@ def get_celex(pages, provided_url):
 
         celex_ids = [id for id in list_celex]
         return celex_ids
+
+# Request headers with realistic user-agent
