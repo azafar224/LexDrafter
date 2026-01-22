@@ -180,3 +180,5 @@ def get_metadata(lang, celex_id):
     logging.info(" Completed Extracting MetaData Information for : " + str(celex_id))
 
     return metadata
+
+# Safe date parser for varied notice formats
