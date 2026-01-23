@@ -137,3 +137,5 @@ def get_pdf_url(lang, celex_ids):
         celex_id_pdf.append(url_PDF)
 
     return celex_id_pdf
+
+# Stripping scripts and style tags
