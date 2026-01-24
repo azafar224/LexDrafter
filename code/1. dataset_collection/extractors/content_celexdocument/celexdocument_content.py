@@ -139,3 +139,5 @@ def get_pdf_url(lang, celex_ids):
     return celex_id_pdf
 
 # Stripping scripts and style tags
+
+# Normalizing whitespace and escape characters
