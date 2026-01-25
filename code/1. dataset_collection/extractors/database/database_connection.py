@@ -28,3 +28,5 @@ def opensearch_connection():
     )
 
     return os
+
+# Exponential backoff retry handler
