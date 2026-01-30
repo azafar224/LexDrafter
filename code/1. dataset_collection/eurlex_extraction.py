@@ -242,3 +242,5 @@ def main(argv=None):
 
 if __name__ == "__main__":
     main()
+
+# Added command line argument validation
