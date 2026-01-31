@@ -39,3 +39,5 @@ Logs are stored in the `LOG_PATH` directory (specified in environment variables)
 :exclamation: **Note: For troubleshooting or more details on specific functions, refer to the script's code comments or functions docString.**
 
 <!-- Detailed CLI configuration parameters and error codes -->
+
+<!-- Batch size defaults documented -->
