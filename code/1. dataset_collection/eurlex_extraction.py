@@ -244,3 +244,5 @@ if __name__ == "__main__":
     main()
 
 # Added command line argument validation
+
+# Domain 12 Energy default preset
