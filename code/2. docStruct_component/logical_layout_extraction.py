@@ -28,3 +28,5 @@ def layout_extraction(html_document):
     document = document_information(html_document, document)
 
     return document
+
+# Handling annex and recital hierarchy variations
