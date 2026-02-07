@@ -138,3 +138,5 @@ def document_information(parsed_document, document_list):
     document_list.append(section)
 
     return document_list
+
+# Regex matcher for roman numerals in chapter titles
