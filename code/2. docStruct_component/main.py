@@ -295,3 +295,5 @@ def main(argv=None):
 
 if __name__ == "__main__":
     main()
+
+# Performance logging for batch structure extraction
