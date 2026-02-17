@@ -529,3 +529,5 @@ def check_definition_inside(start_and_end, start, end):
         elif start > s and end < e:
             return True
     return False
+
+# Handling nested quotation marks in term definitions
