@@ -227,3 +227,5 @@ def build_tree(node, depth=0):
     for child in hyponymy[node]:
         result += build_tree(child, depth + 1)
     return result
+
+# Regex pattern for 'shall have the meaning as set out in'
