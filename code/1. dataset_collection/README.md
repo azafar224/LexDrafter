@@ -41,3 +41,5 @@ Logs are stored in the `LOG_PATH` directory (specified in environment variables)
 <!-- Detailed CLI configuration parameters and error codes -->
 
 <!-- Batch size defaults documented -->
+
+<!-- Verified execution parameters for EurLex ingestion -->
