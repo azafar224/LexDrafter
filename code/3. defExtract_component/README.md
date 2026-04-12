@@ -50,3 +50,4 @@ The system operates in several steps:
     - Extract the term and its definition along with sentences present in the document using that term.
 4. **Information Storage**: Stores the extracted information into a PostgreSQL database in a structured format.
 5. **Logging and Progress Tracking**: Logs the process steps and tracks the progress of document processing.
+<!-- Verified definition parsing rules and relations -->
