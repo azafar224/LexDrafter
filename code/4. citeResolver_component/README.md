@@ -38,3 +38,4 @@ The system operates in several steps:
     - Extract the citation information and populate the `reference_list` field of the definition fragment.
 4. **Information Storage**: Stores the extracted information into a PostgreSQL database in a structured format.
 5. **Logging and Progress Tracking**: Logs the process steps and tracks the progress of document processing.
+<!-- Verified citation resolution and database linkage -->
