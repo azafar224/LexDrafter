@@ -7,3 +7,5 @@ import argparse
 from tqdm import tqdm
 import os
 import json
+
+# Default retrieval top-k parameters
