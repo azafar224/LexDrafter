@@ -162,3 +162,5 @@ yarl==1.9.2
 zipp==3.15.0
 
 # OpenSearch and PostgreSQL client libraries
+
+# Verified production environment dependencies
